@@ -27,10 +27,6 @@ The project explores closed-loop speed control, step response analysis, and perf
 
 The simulated motor transfer function is:
 
-\[
-G(s)=\frac{0.01}{0.005s^2+0.0105s+0.0011}
-\]
-
 PID controller parameters in the main Simulink model:
 
 | Parameter | Value |
@@ -57,8 +53,8 @@ DC-Motor-PID-Control/
 │   └── DC_Motor_PID_Results.mat
 │
 ├── Screenshots/
-│   ├── rpm.png
-│   └── rpp.png
+│   ├── PID respone 2.png
+│   └── PID respone 1.png
 │
 └── README.md
 ```
