@@ -40,7 +40,7 @@ PID controller parameters in the main Simulink model:
 ```text
 DC-Motor-PID-Control/
 │
-├── Models/
+├── Simulation/
 │   ├── DC_Motor_PID.slx
 │   ├── DC_Motor_PID_closedloop.slx
 │   └── DC_Motor_Comparison.slx
